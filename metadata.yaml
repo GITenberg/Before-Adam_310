@@ -1,0 +1,44 @@
+_repo: Before-Adam_310
+_version: 0.0.1
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: "Before Adam is a historical novel by Jack London, serialized in 1906\
+  \ and 1907 in Everybody's Magazine. It is the story of a man who dreams he lives\
+  \ the life of an early hominid Australopithecine.\nThe story offers an early view\
+  \ of human evolution. The majority of the story is told through the eyes of the\
+  \ man's hominid alter ego, one of the Cave People. In addition to the Cave People,\
+  \ there are the more advanced Fire People, and the more animal-like Tree People.\n\
+  Other characters include the hominid's father, a love interest, and Red-Eye, a fierce\
+  \ \"atavism\" that perpetually terrorizes the Cave People. A sabre-cat also plays\
+  \ a role in the story.\nThe US copyright on Before Adam has expired, and the story\
+  \ is available on Project Gutenberg.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2008-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '310'
+  wikidata: Q2873306
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dreams -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Prehistoric peoples -- Fiction'
+- GITenberg
+title: Before Adam
+url: http://www.gutenberg.org/ebooks/310
+wikipedia:
+- https://hy.wikipedia.org/wiki/%D4%B1%D5%A4%D5%A1%D5%B4%D5%AB%D6%81_%D5%A1%D5%BC%D5%A1%D5%BB
+- https://ru.wikipedia.org/wiki/%D0%94%D0%BE_%D0%90%D0%B4%D0%B0%D0%BC%D0%B0
+- https://fr.wikipedia.org/wiki/Avant_Adam
+- https://en.wikipedia.org/wiki/Before_Adam
+- https://pt.wikipedia.org/wiki/Before_Adam
